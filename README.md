@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on a new way to teach learning 
 - 📫 How to reach me discord: SollyKliff#0931
+- I also have a X account: @SollyKliff
 
 <!---
 SollyKliff/SollyKliff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
